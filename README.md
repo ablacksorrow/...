@@ -1,3 +1,6 @@
-<img src="https://files.catbox.moe/e8kug6.png" width="450">
+<p align="center">
+  <img src="https://files.catbox.moe/e8kug6.png" width=450 />
+</p>
 
-hi pls interact with me i like making friends
+<p align="center">hi pls interact with me i like making friends</p>
+
