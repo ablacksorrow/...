@@ -1,3 +1,3 @@
-![](https://files.catbox.moe/1ixjmk.png)
+<img src="https://files.catbox.moe/e8kug6.png" width="450">
 
 hi pls interact with me i like making friends
